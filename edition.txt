@@ -1,3 +1,4 @@
+New function added
 issue resolved
 third edition
 second edition
